@@ -92,5 +92,5 @@ mcmc:
 For questions or support, please contact:
 
 - [m.benetti@ssmeridionale.it](mailto\:m.benetti@ssmeridionale.it)
-- g.bargiacchi@[domain].it
+- [gbargiacchi@lnf.infn.it](mailto\:gbargiacchi@lnf.infn.it)
 
