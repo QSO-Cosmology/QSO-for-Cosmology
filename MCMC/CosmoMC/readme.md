@@ -85,5 +85,5 @@ make
 For further information or assistance, contact:
 
 - [m.benetti@ssmeridionale.it](mailto:m.benetti@ssmeridionale.it)
-- g.bargiacchi@[domain].it
+- [gbargiacchi@lnf.infn.it](mailto:gbargiacchi@lnf.infn.it)
 
