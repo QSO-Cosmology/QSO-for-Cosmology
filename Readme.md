@@ -47,7 +47,7 @@ This section outlines the procedure applied to the original QSO sample in order 
 * **Luminosity distances** are then calculated using Eq. (1) from Benetti et al. (2025), with the fixed $\gamma$ and $\beta$.
 * **Distance moduli and their uncertainties** are computed from the derived luminosity distances. These are the primary QSO observables used as input to the MCMC likelihood.
 
-The QSO data and the corresponding **covariance matrix** are provided in the `QSO_Data/` directory.
+The QSO data and the corresponding **covariance matrix** are provided in the `MCMC/Cobaya/qso_data` and MCMC/CosmoMC/data/QSO directories.
 
 * In the data table, the **distance modulus** and its **uncertainty** are labeled as `mb` and `dmb`, respectively.
 
