@@ -20,8 +20,8 @@ If you use this likelihood or the data in this repository, please cite:
 
 > **Benetti, Bargiacchi, Risaliti, Lusso, Signorini, Capozziello (2025)**  
 > *Quasar Cosmology II: Joint analyses with the Cosmic Microwave Background*  
-> **DARK-D-24-01031R1**  
-> [arXiv: ](https://arxiv.org)
+> **Phys.Dark Univ. 49 (2025) 101983**  
+> [arXiv: ](https://arxiv.org/abs/2506.21477)
 ---
 
 ---# 📊 QSO Sample: Original Data
